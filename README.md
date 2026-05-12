@@ -60,13 +60,3 @@ git clone https://github.com/rodrigovalimjunior-cyber/gestao-produtos.git
 
 ![DER](assets/figma/DER.png)
 
-## 🧠 Decisões de Engenharia
-
-**Por que PHP com PDO?**
-PDO permite conexão segura com o banco de dados prevenindo SQL Injection através de prepared statements.
-
-**Por que AJAX?**
-Para atualizar os dados sem recarregar a página, melhorando a experiência do usuário.
-
-**Por que SHA256?**
-Para armazenar senhas de forma segura sem salvar em texto puro no banco de dados.
