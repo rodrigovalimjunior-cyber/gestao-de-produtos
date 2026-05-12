@@ -44,7 +44,9 @@ git clone https://github.com/rodrigovalimjunior-cyber/gestao-produtos.git
 ## 🎨 Telas do Sistema (Figma)
 
 ### Login
-![Login](assets/figma/login.png)
+![Login](assets/figma/LOGIN.png)
+### Login
+![Login](assets/figma/REGISTER.png)
 
 ### Produtos
 ![Produtos](assets/figma/produtos.png)
@@ -52,12 +54,11 @@ git clone https://github.com/rodrigovalimjunior-cyber/gestao-produtos.git
 ### Fornecedores
 ![Fornecedores](assets/figma/fornecedores.png)
 
-### Cesta
-![Cesta](assets/figma/cesta.png)
+
 
 ## 🗄️ Diagrama Entidade Relacionamento (DER)
 
-![DER](assets/figma/der.png)
+![DER](assets/figma/DER.png)
 
 ## 🧠 Decisões de Engenharia
 
