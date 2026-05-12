@@ -4,7 +4,8 @@ Sistema web para gerenciamento de produtos, fornecedores e cesta de compras dese
 
 ## 👨‍💻 Integrantes
 
-- Rodrigo Valim Junior - RA: SEU_RA_AQUI
+- Rodrigo Valim Junior - RA: 60000597
+- Henrique Nunes Peixoto, RA 60300275
 
 ## 🚀 Tecnologias
 
