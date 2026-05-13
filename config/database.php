@@ -13,3 +13,4 @@ function getConnection() {
         die(json_encode(['error' => 'Erro na conexão: ' . $e->getMessage()]));
     }
 }
+// limpeza
