@@ -111,3 +111,4 @@ function deleteProduto(id) {
         });
     }
 }
+// validacao produto
