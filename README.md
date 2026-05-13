@@ -60,3 +60,5 @@ git clone https://github.com/rodrigovalimjunior-cyber/gestao-produtos.git
 
 ![DER](assets/figma/DER.png)
 
+
+<!-- atualizado -->
